@@ -27,8 +27,8 @@
 
 - 段落开头不空格
 - 段落中不要包含换行（回车）字符
-- 标点符号使用遵守《 `标点符号用法`__ 》
+- 标点符号使用遵守《`标点符号用法`_》
 - 段落之间的留白大于段落内行距的 1.5 倍
 - 内嵌多媒体
 
-.. __标点符号用法: http://www.china-language.gov.cn/wenziguifan/managed/020.htm
+.. _标点符号用法: http://www.china-language.gov.cn/wenziguifan/managed/020.htm
